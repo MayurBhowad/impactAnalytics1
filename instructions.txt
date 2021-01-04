@@ -1,2 +1,6 @@
-Heroku link: 
-Github Repo:
+Heroku link: https://impactanalytics1.herokuapp.com/
+Github Repo: https://github.com/MayurBhowad/impactAnalytics1
+
+1. all candidates 
+2. search candidate
+3. reject or select
